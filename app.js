@@ -32,3 +32,6 @@ app.listen(3000, ()=>{
     console.log("***Start!")
 });
 
+//npm install -S @angular/material @angular/cdk @angular/animations
+//npm uninstall @angular/core
+//npm install -S @angular/core
