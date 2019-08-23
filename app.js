@@ -35,3 +35,10 @@ app.listen(3000, ()=>{
 //npm install -S @angular/material @angular/cdk @angular/animations
 //npm uninstall @angular/core
 //npm install -S @angular/core
+//  "styles": [
+//               "src/styles.scss",
+//               "node_modules/bootstrap/dist/css/bootstrap.min.css",
+//               "node_modules/primeicons/primeicons.css",
+//               "node_modules/primeng/resources/themes/nova-light/theme.css",
+//               "node_modules/primeng/resources/primeng.min.css"
+//             ],
